@@ -1,2 +1,2 @@
-# Eddy's Portfolio
+# Eddy Kamboh
 
