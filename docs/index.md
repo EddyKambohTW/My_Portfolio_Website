@@ -1,6 +1,6 @@
 # Portfolio
 
-[Linkedin's Profile](www.linkedin.com/in/eddyk1)
+[Linkedin's Profile](https://www.linkedin.com/in/eddyk1)
 
 ## [Statistics Lectures](https://github.com/EddyKambohTW/Statistics-Lectures)
 
