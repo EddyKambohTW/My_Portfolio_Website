@@ -1,5 +1,7 @@
 # Portfolio
 
+www.linkedin.com/in/eddyk1
+
 ## [Statistics Lectures](https://github.com/EddyKambohTW/Statistics-Lectures)
 
 - Examine concepts of probability that are associated with statistics.
