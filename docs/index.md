@@ -12,3 +12,4 @@
 - Explain the assumptions behind various procedures for inference.
 - Use simulations in order to validate probabilistic properties of procedures for inference.
 
+---
