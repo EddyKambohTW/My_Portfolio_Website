@@ -10,6 +10,8 @@
 - Recognize and interpret different forms of variability.
 - Use the basic operation of the R program and carry out computations and produce plots associated with data and probability.
 
+---
+
 ## [Statistical Inferences](https://github.com/EddyKambohTW/Statistics-Lectures)
 
 - Examine concepts of probability that are associated with statistics.
