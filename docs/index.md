@@ -12,7 +12,7 @@
 
 ---
 
-## [Statistical Inferences](https://github.com/EddyKambohTW/Statistics-Lectures)
+## [Statistical Inferences]((https://sites.google.com/view/math-1281))
 
 - Examine concepts of probability that are associated with statistics.
 - Understand the basic forms of presenting and summarizing data.
